@@ -1,0 +1,101 @@
+{
+    "funcionarios":[
+        {
+            "id":1,
+            "nome": "Maria",
+            "funcao": "recepcionista",
+            "salario": 1600
+        },
+        {
+            "id":2,
+            "nome": "Teresa",
+            "funcao": "Cabeleleira",
+            "salario": 2000
+        },
+        {
+            "id":3,
+            "nome": "Amelia",
+            "funcao": "Manicure",
+            "salario": 1300
+        },
+        {
+            "id":2,
+            "nome": "Esmeralda",
+            "funcao": "Maquiadora",
+            "salario": 1500
+        }
+    ],
+    "cargos":[
+        {
+            "id":1,
+            "cargo":"recepcionista",
+            "salario":1600
+            
+        },
+        {
+            "id":2,
+            "cargo":"cabeleleira",
+            "salario":2000
+            
+        },
+        {
+            "id":3,
+            "cargo":"Maquiadora",
+            "salario":1500
+            
+        },
+        {
+            "id":4,
+            "cargo":"Manicure",
+            "salario":1300
+    
+        }
+    ],
+    
+    "servicos": [
+        {
+            "id": 1,
+            "servico": "Pintar Unhas",
+            "preco": 25.00
+        },
+        {
+            "id": 2,
+            "servico": "Corte de Cabelo",
+            "preco": 40.00
+        },
+        {
+            "id": 3,
+            "servico": "Maquiagem Completa",
+            "preco": 60.00
+        },
+        {
+            "id": 4,
+            "servico": "Maquiagem Simples",
+            "preco": 35.00
+        }
+
+    ],
+
+    "produtos":[
+        {
+            "id": 1,
+            "produto": "Hidratante capilar",
+            "preco": 15.00
+        },
+        {
+            "id": 2,
+            "produto": "Creme para pele",
+            "preco": 32.00
+        },
+        {
+            "id": 3,
+            "produto": "Esmalte",
+            "preco": 10.00
+        },
+        {
+            "id": 4,
+            "produto": "Unhas Postiças",
+            "preco": 10.00
+        }
+    ]
+}
